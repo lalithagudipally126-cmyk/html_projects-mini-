@@ -1,31 +1,58 @@
-# 🐱 Student Profile Page  
+# HTML Learning Projects
 
-## 📖 Overview  
-This repository is a growing collection of creative profile pages built with simple HTML.  
-Currently, it includes **one project**: a playful student profile page for a cat named *Kitten Whiskers*.  
+This repository contains my HTML practice projects created while learning the fundamentals of web development.
 
-## 🎯 Purpose  
-- Practice and showcase basic HTML structure.  
-- Experiment with fun, themed content (like “About Me,” skills, interests, and education).  
-- Build a collection of profile pages that can expand over time.  
+## 📚 Topics Practiced
 
-## 📂 Current Project  
-### Student Profile Page (Cat Edition)  
-Features:  
-- 🐾 About Me section  
-- ✨ Skills list  
-- 🌟 Interests  
-- 📚 Education (humorous cat-themed achievements)  
-- 📞 Contact information  
+- HTML document structure
+- Headings and paragraphs
+- Images
+- Hyperlinks
+- Lists
+- Tables
 
-## 🚀 How to Run  
-1. Clone or download this repository.  
-2. Open the `index.html` file in your browser.  
-3. Enjoy the cat profile page!  
+## 📂 Projects
 
-## 🔮 Future Updates  
-This repo will be updated with more creative profile pages—different characters, styles, and themes.  
-Stay tuned for new additions!  
+### 🐱 Student Profile Page
+A fun profile webpage featuring a fictional student.
+
+**Concepts Used:**
+- Headings
+- Paragraphs
+- Images
+- Lists
+- Tables
 
 ---
-Made with ❤️ for learning and fun.
+
+### 🌊 Favorite Movie - Moana
+A webpage about my favorite movie, **Moana**.
+
+**Includes:**
+- Movie description
+- Character list
+- Movie poster/image
+- Link to the official page or Wikipedia
+
+---
+
+### 🍵 Homemade Tea Recipe
+A simple recipe webpage explaining how to prepare homemade tea.
+
+**Includes:**
+- Ingredients
+- Step-by-step instructions
+- Cooking time
+- Difficulty level
+- Ingredient table
+
+## 🚀 Technologies Used
+
+- HTML5
+
+## 🎯 Purpose
+
+This repository documents my progress as I learn HTML before moving on to CSS and JavaScript.
+
+---
+Created as part of my web development learning journey. learning and fun.
